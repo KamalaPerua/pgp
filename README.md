@@ -1,2 +1,0 @@
-# pgp
-Pagan-Gopnik Project
